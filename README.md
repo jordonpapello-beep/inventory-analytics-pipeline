@@ -1,9 +1,13 @@
 # inventory-analytics-pipeline
 OVERVIEW: 
+---
 End-to-end inventory data cleaning, SQL normalization, and R visualization project. Demonstrates Excel preprocessing, MySQL data modeling, SQL transformations, and data analysis in R using tidyverse and ggplot2.
 The goal of the project is to showcase practical data analyst skills, including data cleaning, SQL database design, data normalization, and exploratory data analysis (EDA) using real-world style inventory data.
 ---------------------------------------------------------------------------------------------------------------
+Note: All datasets in this repository are simliar to but not actual company data. This is to preserve data structure while removing proprietary information. This was accomplished by scaling the data linearly and then adding a little random noise to each order and on hand value (thru is then calculated based on those two new values). Therefore all of the trends represented in plots will maintain the same shape just at a differemt scale.
+---------------------------------------------------------------------------------------------------------------
 IN DEPTH DESCRIPTION:
+---
 Inventory Data Cleaning, SQL Normalization, and R Visualization:
 
 1.) Tools and Technologies:
@@ -88,8 +92,6 @@ inventory-analytics-pipeline/
 │	         └── Titos_2024.png
 │
 └── README.md
-
-Note: All datasets in this repository are anonymized and/or sampled to preserve data structure while removing proprietary information.
 
 4.) Key Skills Demonstrated:
 

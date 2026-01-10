@@ -95,10 +95,10 @@ inventory-analytics-pipeline/
 
 4.) Key Skills Demonstrated:
 
-Real-world data cleaning and preprocessing
-SQL database design and normalization
-Writing and executing UPDATE and DELETE queries
-End-to-end ETL workflows (Excel to SQL to R)
-Exploratory data analysis
-Data visualization and trend analysis
-Communicating insights through charts and summaries
+- Real-world data cleaning and preprocessing
+- SQL database design and normalization
+- Writing and executing UPDATE and DELETE queries
+- End-to-end ETL workflows (Excel to SQL to R)
+- Exploratory data analysis
+- Data visualization and trend analysis
+- Communicating insights through charts and summaries

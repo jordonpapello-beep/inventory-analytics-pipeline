@@ -8,7 +8,7 @@ con <- dbConnect(RMySQL::MySQL(),
                  host = "localhost", 
                  dbname = "bar_inventory", 
                  user = "root", 
-                 password = "Roslyn92399$")
+                 password = "************") # Hidden for github
 
 # NOTE: ALL OF THE DATA IN THESE TABLES HAS BEEN ALTERED LINEARLY AND 
 #       SLIGHTY RANDOMIZED TO CONCEAL PROPRIETARY COMPANY INFORMATION!

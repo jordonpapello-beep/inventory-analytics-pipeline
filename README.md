@@ -15,6 +15,9 @@ Here's the order this projects folders should be viewed in:
 - data
   - 3 Cleaned after SQL 
 - r
+  - bar_inventory
+  - r_2023_long (just to understand what the long form of the data-frame looks like)
+  - r_2024_long (just to understand what the long form of the data-frame looks like)
 - plots
 
 IN DEPTH DESCRIPTION:

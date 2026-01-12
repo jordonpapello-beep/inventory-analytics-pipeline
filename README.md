@@ -9,10 +9,11 @@ Note: All datasets in this repository are simliar to but not actual company data
 PROJECT ORDER:
 Here's the order this projects folders should be viewed in:
 - data
-  - unclean
+  - 1 Original Inventory
+  - 2 Uncleaned but Preped for SQL
 - sql
 - data
-  - cleaned
+  - 3 Cleaned after SQL
 - r
 - plots
 

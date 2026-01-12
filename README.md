@@ -41,9 +41,10 @@ a.) Excel Preprocessing:
 b.) SQL Database Creation and Data Ingestion:
 - Created a MySQL database and table structure
 - SQL Data Cleaning and Normalization (explained in detail in the sql file)
-- Updated numeric columns to set invalid negative values to NULL
-- Replaced NULL values in weekly order columns with 0 
-- Removed remaining invalid or unwanted rows that were missed in excel
+  - Updated numeric columns to set invalid negative values to NULL
+  - Replaced NULL values in weekly order columns with 0 
+  - Removed remaining invalid or unwanted rows that were missed in excel
+  - etc...
   
 c.) Import Into R:
 - Imported two years of cleaned inventory data into R as data frames

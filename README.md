@@ -9,6 +9,8 @@ Note: All datasets in this repository are simliar to but not actual company data
 PROJECT ORDER:
 Here's the order this projects folders should be viewed in:
 - data
+  - unclean
+  - data
 - sql
 - r
 - plots

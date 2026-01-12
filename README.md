@@ -27,7 +27,7 @@ Inventory Data Cleaning, SQL Normalization, and R Visualization:
 
 a.) Excel Preprocessing:
 - Removed unnecessary header rows and unused fields
-- Standardized column names with "camelCase"
+- Standardized column names with "snake_case"
 - Cleaned inconsistent formatting and obvious data errors
 - Prepared data for database ingestion by creating final column that creates the sql insert statements which can be copy-pasted into sql
 

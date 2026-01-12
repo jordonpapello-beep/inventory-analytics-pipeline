@@ -26,7 +26,7 @@ View(inventory2023)
 View(inventory2024)
 
 
-# To Export Data-Frames as CSV Files: -------------------------------------
+# To Export Data-Frames as CSV Files for Back-Ups: ------------------------
 write.csv(inventory2023, "/Users/homefolder/Desktop/bar_inventory2023_data.csv",
           row.names = FALSE)
 

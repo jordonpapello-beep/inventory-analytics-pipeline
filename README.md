@@ -10,8 +10,9 @@ PROJECT ORDER:
 Here's the order this projects folders should be viewed in:
 - data
   - unclean
-  - data
 - sql
+- data
+  - cleaned
 - r
 - plots
 

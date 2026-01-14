@@ -218,7 +218,7 @@ theme_Scatter <- theme(
   panel.grid.major.x = element_line(color = "grey")
 )
 
-# Descriptive Cation to Explain Plot Relationships in Depth:
+# Descriptive Caption to Explain Plot Relationships in Depth:
 caption_Scatter <- "* The horizontal red lines are the maximum value that you want to keep the OH curve below during the season (solid), and where you want the currved line to be at or below by the end (dashed). You never need more OH 
   during the season than the solid red line (If you do, than you're over stocked). This trend becomes apparent on the plot as the red OH curve will cross above the solid red line for an extended period of time.\n** Green vertical line indicates when in the season you should begin to carefully watch how much you are ordering and going through. August is the last month where 
        you are open everyday and still have enough throughput to get rid of extra on hand stock by either ordering less of the product, or none at all.\n*** IDEAL PLOT CHARACTERISTICS (What you want the plot to look like):

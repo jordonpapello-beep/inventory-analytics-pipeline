@@ -4,7 +4,7 @@ OVERVIEW:
 Inventory data cleaning, SQL normalization, and R visualization project. Demonstrates Excel preprocessing, MySQL data modeling and SQL transformations, and data analysis in R using tidyverse and ggplot2.
 The goal of the project is to showcase practical data analyst skills, including data cleaning, SQL database design, data normalization, and exploratory data analysis (EDA) using real-world inventory data.
 ---------------------------------------------------------------------------------------------------------------
-Note: All datasets in this repository are simliar to but not actual company data. This is to preserve data structure while removing proprietary information. This was accomplished by scaling the data linearly and then adding a little random noise to each order and on hand value (thru is then calculated based on those two new values). Therefore all of the trends represented in plots will maintain the same shape just at a different scale.
+Note: All datasets in this repository are simliar to but not actual company data. This is to preserve the data structure while removing proprietary information. This was accomplished by scaling the data linearly and then adding a little random noise to each order and on hand value (thru is then calculated based on those two new values). Therefore all of the trends represented in plots will maintain the same shape just at a different scale.
 ---------------------------------------------------------------------------------------------------------------
 PROJECT ORDER:
 Here's the order this projects folders should be viewed in:

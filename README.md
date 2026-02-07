@@ -7,6 +7,7 @@ The goal of the project is to showcase practical data analyst skills, including 
 Note: All datasets in this repository are simliar to but not actual company data. This is to preserve the data structure while removing proprietary information. This was accomplished by scaling the data linearly and then adding a little random noise to each order and on hand value (thru is then calculated based on those two new values). Therefore all of the trends represented in plots will maintain the same shape just at a different scale.
 ---------------------------------------------------------------------------------------------------------------
 PROJECT ORDER:
+---
 Here's the order this projects folders should be viewed in:
 - data
   - 1 Original Inventory (data hidden but table structure visible)

@@ -59,7 +59,8 @@ c.) Import Into R:
   * Year-over-year comparisons for specific products
   * Many plots were made, but the most useful plots derived are available in the plots directory.
 
-d.) Visualization and Conclusions:
+Visualization and Conclusions:
+---
 - After creating the plots and viewing them, many conclusions can be drawn that would be cumbersome or near impossible to draw from looking at the original inventory sheets:
   - Ordered representation of which products sell more and by how much
   - How spread the data is per product for both ordering and throughput values, and if there are outliers

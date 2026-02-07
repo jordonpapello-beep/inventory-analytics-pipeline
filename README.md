@@ -69,7 +69,7 @@ Visualization and Conclusions:
   - If a product is over/under performing itself or its replacment from the following year
   - etc...
 
-3.) Key Skills Demonstrated:
+Key Skills Demonstrated:
 
 - Real-world data cleaning and preprocessing
 - SQL database design and normalization

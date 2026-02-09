@@ -23,7 +23,7 @@ Here's the order this projects folders should be viewed in:
 
 IN DEPTH DESCRIPTION:
 ---
-Inventory Data Cleaning, SQL Normalization, and R Visualization:
+Inventory Data Cleaning, SQL Normalization, and R Plot Creation and Visualization:
 
 1.) Tools and Technologies:
 
@@ -67,7 +67,14 @@ After creating the plots and viewing them, many conclusions can be drawn that wo
   - The seasonal demand trends for specific products
   - If a product is over/under stocked, or over/under ordered
   - If a product is over/under performing itself or its replacment from the following year
-  - etc...
+  - Specific Conclusions Drawn from Plots"
+    - Plot 1.3: Athis plot shows that titos was...
+    - two
+    - three
+    - four
+    - five
+    - six
+    - etc...
 
 Key Skills Demonstrated:
 

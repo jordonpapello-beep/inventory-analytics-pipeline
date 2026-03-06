@@ -61,6 +61,15 @@ Inventory Data Cleaning, SQL Normalization, and R Plot Creation and Visualizatio
   * Year-over-year comparisons for specific products
   * Many plots were made, but the most useful plots derived are available in the plots directory.
 
+### Key Skills Demonstrated:
+
+- Real-world data cleaning and preprocessing
+- SQL database design and normalization
+- Writing and executing UPDATE and DELETE queries
+- End-to-end workflows (Excel to SQL to R)
+- Exploratory data analysis with data visualization and trend analysis
+
+
 Visualization and Conclusions:
 ---
 After creating the plots and viewing them, many conclusions can be drawn that would be cumbersome or near impossible to draw from looking at the original inventory sheets:
@@ -78,12 +87,3 @@ After creating the plots and viewing them, many conclusions can be drawn that wo
     - six
     - etc...
 
-Key Skills Demonstrated:
-
-- Real-world data cleaning and preprocessing
-- SQL database design and normalization
-- Writing and executing UPDATE and DELETE queries
-- End-to-end workflows (Excel to SQL to R)
-- Exploratory data analysis
-- Data visualization and trend analysis
-- Communicating insights through various plots

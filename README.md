@@ -100,7 +100,7 @@ After creating the plots and viewing them, many conclusions can be drawn that wo
     *  **Conclusions:** This **patterned distribution allows us to selectively manage our inventory by product**: you must apply quick, responsive restocking for the high-volume, high-variance products to capitalize on demand spikes without runningout of stock, while applying reserved inventory controls to the long tail of low-volume products to minimize unnecessary holding costs.
 
 
-  * **4.)**Box and Whisker PLots / Top Liquer / Order / `2024.png`:
+  * **4.)** Box and Whisker PLots / Top Liquer / Order / `2024.png`:
     * **Observations:** Unlike the more stable categories, **our top-tier spirits—specifically Casamigos Blanco, Rack Vodka, and Rack Tequila—display significant volatility**, characterized by wide interquartile ranges and frequent extreme positive outliers, indicating that order volumes are not consistent but subject to massive, sporadic spikes.
    
     *  **Conclusions:** Because our highest-volume liquor products are prone to unpredictable demand surges rather than steady, reliable consumption, **we must shift away from ordering based on average weekly volume toward a dynamic safety stock model**; failure to do so will result in stockouts during the outlier high-demand weeks visualized in the plot.
